@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ifafaera.github.io/GVn/sitemap_index.txt.gz
+Sitemap: https://ifafaera.github.io/MNp/sitemap_index.txt.gz
+Sitemap: https://ifafaera.github.io/NGU/sitemap_index.txt.gz
+Sitemap: https://ifafaera.github.io/NKv/sitemap_index.txt.gz
+Sitemap: https://ifafaera.github.io/lhq/sitemap_index.txt.gz
